@@ -1,9 +1,7 @@
 package com.udacity.vehicles.domain;
 
-
-import jakarta.persistence.Embeddable;
-import jakarta.persistence.Transient;
-
+import javax.persistence.Embeddable;
+import javax.persistence.Transient;
 import javax.validation.constraints.NotNull;
 
 /**
